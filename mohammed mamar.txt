@@ -1,0 +1,13 @@
+git config --global user.name
+git config --global user.email
+
+git init
+git add.
+git commit -m "first message"
+git remote add origin https://github.com/Username/RepositoryName.git git push-u origin master
+git push -u origin master
+
+git clone https://github.com/Username/RepositoryName.git
+git add .
+git commit -m "first message"
+git push
